@@ -52,7 +52,7 @@ Buat sheet dengan nama 'gempa' dan kolom berikut:
 3. Custom warna dan tampilan melalui Tailwind CSS
 
 ## 📱 Screenshot
-![Screenshoot]([[https://blog.classy.id/upload/gambar_berita/5927473f11cd6b36dda50e2d3bfb6939_20241122220041.png)]())
+![Teks alternatif](https://blog.classy.id/upload/gambar_berita/5927473f11cd6b36dda50e2d3bfb6939_20241122220041.png)
 
 ## 🤝 Kontribusi
 
